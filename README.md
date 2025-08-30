@@ -41,3 +41,6 @@ image
 ʀᴀᴄɪꜱᴛ, ꜱᴇxɪꜱᴛ, ʜᴏᴍᴏᴘʜᴏʙɪᴄ ᴏʀ ᴛʀᴀɴꜱᴘʜᴏʙɪᴄ
 
 ʜᴀᴛᴇ ᴏɴ ꜰᴜʀʀɪᴇꜱ, ᴛʜᴇʀɪᴀɴꜱ, ᴏᴛʜᴇʀᴋɪɴ, ᴇᴛᴄ.
+
+<img width="470" height="264" alt="system-center-configuration-manager-470x264" src="https://github.com/user-attachments/assets/96efdd2b-d5c9-4b83-a7ee-85d5bbc4487c" />
+
